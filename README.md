@@ -1,7 +1,7 @@
 ### Hey, I'm Stackmance! 🧙‍♂️🚀  
 
-💡 **Indie Developer | OSS Creator | AI & DevTools Enthusiast**  
-⚡ **Building cutting-edge dev tools to make coding faster & smarter**  
+🇯🇵 **Indie Developer from Japan** | OSS Creator | AI & DevTools Enthusiast  
+💡 **Building tools that make developers unstoppable.**  
 📌 Creator of [FixNow](https://github.com/stackmance/fixnow) - AI-powered Git commit assistant  
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 What I'm working on  
 - 🛠 **FixNow**: AI-powered Git pre-commit assistant  
 - ⚡ Exploring AI-driven developer productivity tools  
-- 💬 Sharing dev tips & insights on [Twitter](https://twitter.com/stackmance_dev)  
+- 🏗 Experimenting with cutting-edge AI + DevTools  
 
 ### 📫 Connect with me  
 - 🌍 [stackmance.dev](https://stackmance.dev) (Coming soon)  
@@ -18,4 +18,4 @@
 
 ---
 
-🚀 _"Coding is magic. Let's build something amazing!"_
+_"Developers should code, not fix bugs. Let's build the future."_ 🚀  
